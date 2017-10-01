@@ -1,0 +1,2 @@
+[10-Sep-2017 18:32:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/sarandip/public_html/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[10-Sep-2017 18:38:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/sarandip/public_html/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
